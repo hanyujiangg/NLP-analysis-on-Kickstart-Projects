@@ -1,0 +1,1 @@
+Scan-Visor is going to be a app that allows you to scan animal, plants and objects and give you information about it (IOS exclusive)

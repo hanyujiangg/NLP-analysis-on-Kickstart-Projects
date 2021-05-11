@@ -1,0 +1,10 @@
+CLA is an innovative product designed to provide real time legal resources to largely underserved individuals.
+The LightSpike is a new support system for using lightstands on location outdoors in wind or uneven terrain
+Affordable device to monitor home water use, help save money, stop mold growth, and even avoid disaster with emergency water shutoff!
+Capture what's on your mind when in a meeting or on the go. Just tap and speak, and Senstone will turn your ideas into organised notes.
+"Race To The Moon & Updated Integrated Space Plan: 
+Dedicated To Buzz Aldrin, Neil Armstrong, Michael Collins & Their 400,000 Teammates"
+Help us build three exciting applications using Arduino Yun board. These applications interface with Google Docs, Gmail and Dropbox.
+Cycle with peace of mind. Dragonsâ€™ Den winners CYCL return to Kickstarter with the latest evolution of turn signals for bicycles
+We developed a gaming controller that works with AR/VR Mobile games. We are coming out with a host of games for this fun device!
+An app that will help conquer language barriers and cultural differences.

@@ -1,0 +1,10 @@
+Robotic process automation software
+"""TracXcroll""\r
+ãƒˆãƒ©ãƒƒã‚¯ã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã¯ã€ãƒˆãƒ©ãƒƒã‚¯ãƒœãƒ¼ãƒ«æ©Ÿèƒ½ã‚’ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ç”¨é€”ã«ãƒªãƒ—ãƒ¬ã‚¤ã‚¹ãƒ¡ãƒ³ãƒˆã™ã‚‹è£œåŠ©ãƒ‡ãƒã‚¤ã‚¹ã§ã™ã€‚\r
+ ãƒœãƒ¼ãƒ«ã‚„ãƒœã‚¿ãƒ³æ©Ÿèƒ½ã‚’ã€ç¸¦æ¨ªã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã‚„è‡ªã‚‰è¨­å®šã—ãŸã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼ã«ç½®ãæ›ãˆã‚‹ã€ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã®ãŸã‚ã®è£œåŠ©ãƒ‡ãƒã‚¤ã‚¹ã§ã™ã€‚"
+Never a dead cellphone. Comes with breakthrough USB generator, light/siren, UV water purifier and plasma firestarterâ€¦
+Resolve Raspberry Pi SD Card Corruption issue using soft Shutdown with a Super Capacitor
+An App/Website that will connect generations together. A family history that will never be lost or forgotten.
+A recycling center (and so much more)  in Texas utilizing the Precious Plastic open-source framework.
+This project will research and test the use of wireless technology coupled with smartphones to create affordable hearing aids.
+A passive hearing device that increases detail and reduces distracting ambient noise.

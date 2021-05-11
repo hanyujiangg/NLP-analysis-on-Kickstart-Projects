@@ -1,0 +1,10 @@
+I'm writing a guide that teaches people how to self-host their own free, automated backup solution using SSH, a Raspberry Pi and Git.
+X-Plane flight simulator avionics panels that are designed around the popular SimVimÂ© plugin.
+Ecommerce marketplace for black-owned businesses.
+Designed by a former Apple mechanical engineer to help secure surgical masks & reduce that pesky glasses fog.
+Glo is an Arduino compatible LED/Neopixel controller which can add customized lighting for countless applications.
+Charge and Analyze NiMh Batteries with 18-bits of Resolution (Now 100% Arduino Compatible)
+An App that will help you to find any information about the gyms nearby.
+Dual-Headed, Super Small and Slim, Fast with up to 460MB/s and 410MB/s Read & Write Speed, 1TB/ 500GB High Capacity, No Cables/ Dongles
+An app to report near-misses & motorist violations to improve safe mobility for cyclists worldwide.
+Minimalist Design & Incredibly Portable Urban Electric Scooter.

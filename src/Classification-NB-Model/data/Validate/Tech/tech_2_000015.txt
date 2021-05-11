@@ -1,0 +1,10 @@
+An easier way to make lightshows!
+This will be the year you finally learn to code. Help us create one of the most practical bundles of courses ever!
+Arachne is a full, highly modular web development framework for Clojure emphasizing ease, simplicity and a solid, scalable design.
+Task management system for places where there is no physical address. Farms, miners, parklands, forests are just a few applications.
+Spring Thing is a compact on-the-go hand held massage tool that utilizes a spring to quickly and gently relax sore muscles and tendons.
+These are updated custom ultralight gyro-copters, over 22 safety items. Currently working on a 2nd generation model. No license needed.
+Can you help us make an ultra bright white one a reality?
+Does your iPad case charge your phone? The LilyPad Case uses new solar ink to convert light into energy. It includes HDMI & More!!
+A device paired with an app that gives your battery rest periods to extend its lifespan.
+Stop guessing on overcooked or undercooked meat! The Mini by TMS ensures that your meat is juicy, and perfectly cooked every time!

@@ -1,0 +1,10 @@
+A multi-use dustpan; Upside down it 's a dustpan; right side up it's amazing. Saves time cleaning up yard cuttings or after a disaster
+If your Arduino project fits into just a few I/O pins and not too much memory you may want this ATTiny85 based card
+AIQ works everywhere and for everyone! For Apple HomeKit, IFTTT, or any cloud with MQTT. Supports Wi-Fi & Bluetooth.
+Features AI tech with GPS, ECG, HR, SPO2, blood pressure, and 10+ days battery life
+Mobile application that autonomously trades items you want for items you have; cashless trades.
+AI Powered "Robot" For Social Media Messengers, SMS Text, Email & QR Technology. "Bot" Has Automated Customer Service Functionality...
+The App is a Simple & Easy to Use Personal Trainer in the Pocket!
+Drone deliveries are quick, convenient, and eco-friendly. We're making them accessible to everyone.
+Darkmatter is the world's first Xbox(tm) laptop that you can buy as a fully assembled product or in kit form. Now Xbox ONE compatible!
+Let us develop and produce: Cubr3. The first device that will butter/spread your bread .. simple
