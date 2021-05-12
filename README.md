@@ -1,5 +1,7 @@
 # NLP Analysis on Kickstart Projects 
 This project is a proof-of-concept for a NLP approach to increase the chance of building a successful crowdfunding project in platform like Kickstarter. It also draws insights from the crowdfunding landscape that are useful for the platform management and the individual fundraisers. 
+This is a school project at Singapore Management University in 2021.
+Project team: Dao Yong, Hanyu, Jing Jie, Jocille, Raymond, Soo Yeon
 
 ## Data 
 We used dataset published by WebRobots and crawled our own data from Kickstarter. 
